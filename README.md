@@ -1,6 +1,7 @@
 # BatMobile
 
 Sensors-enabled line-following robot. 
+It can be monitored, configured, and controlled remotely using a custom-made Java software (not included in this repository).
 
 Developed as part of a DTU Diplom 4th semester multidisciplinary project.
 
