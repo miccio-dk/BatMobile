@@ -5,6 +5,8 @@ It can be monitored, configured, and controlled remotely using a custom-made Jav
 
 Developed as part of a DTU Diplom 4th semester multidisciplinary project.
 
+[Link of test-run video (hosted on YouTube)](http://youtu.be/BTn029kNY_Q)
+
 ## Installation
 
 1. Print the PCBs (a breadboard will do too)
